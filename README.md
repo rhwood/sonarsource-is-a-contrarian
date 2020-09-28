@@ -1,0 +1,1 @@
+# sonarsource-is-a-contrarian
